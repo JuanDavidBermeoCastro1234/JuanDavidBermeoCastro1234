@@ -1,88 +1,103 @@
-# Hola, soy Juan David Bermeo Castro
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,45:f59e0b,100:06b6d4&text=Juan%20David%20Bermeo%20Castro&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=34&desc=Full%20Stack%20Software%20Developer%20%7C%20Colombia&descAlign=50&descAlignY=62" alt="Juan David Bermeo Castro" />
+</p>
 
-<h3 align="center">Desarrollador de software full stack | Colombia</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=23&pause=900&color=F59E0B&center=true&vCenter=true&width=900&lines=I%20build%20modern%20and%20functional%20web%20interfaces;Full%20stack%20apps%2C%20APIs%20and%20automation%20flows;React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB;CRM%20automation%20and%20business-focused%20solutions" alt="Professional typing animation" />
+</p>
 
 <p align="center">
   <a href="mailto:bermeocastrojuandavid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bermeocastrojuandavid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email profesional" />
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/juan-david-bermeo-castro-63a7b4326/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-Juan%20David%20Bermeo%20Castro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/JuanDavidBermeoCastro1234">
-    <img src="https://img.shields.io/badge/GitHub-JuanDavidBermeoCastro1234-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://wa.me/573022926563">
+    <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanDavidBermeoCastro1234&label=Visitas%20al%20perfil&color=f59e0b&style=flat" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=JuanDavidBermeoCastro1234&label=Profile%20views&color=f59e0b&style=flat" alt="Profile views" />
 </p>
 
-## Desarrollador de software full stack
+## Full Stack Software Developer
 
-Soy técnico laboral en desarrollo de software full stack, graduado de Campuslands. Me enfoco en crear interfaces modernas, aplicaciones web funcionales, APIs y automatizaciones que conectan procesos reales de negocio.
+I am a full stack software developer trained at Campuslands. I focus on building modern interfaces, functional web applications, APIs and automation flows that connect technology with real business needs.
 
-Trabajo principalmente con **JavaScript, TypeScript, React, Next.js, Node.js, Express y MongoDB**. También he construido proyectos con **Python**, fundamentos de **Java**, consumo de APIs, CRUDs, dashboards, landing pages, apps interactivas y flujos de automatización con enfoque CRM.
+My main stack includes **JavaScript, TypeScript, React, Next.js, Node.js, Express and MongoDB**. I have also worked with **Python**, Java fundamentals, API consumption, CRUD applications, dashboards, landing pages, interactive apps and CRM-focused automation flows.
 
-Actualmente estoy fortaleciendo mi perfil como desarrollador profesional, construyendo proyectos más completos, cuidando la calidad visual, la arquitectura y la forma en que cada solución resuelve un problema real.
+I am currently strengthening my professional developer profile by building more complete projects, improving architecture, polishing UI quality and creating solutions that solve practical problems.
 
-## Stack principal
+## Main Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,git,github,vite,tailwind,npm" alt="Stack principal" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,git,github,vite,tailwind,npm" alt="Main stack" />
 </p>
 
-| Área | Tecnologías y enfoque |
+| Area | Technologies and focus |
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS |
-| Backend | Node.js, Express, APIs REST, manejo de variables de entorno |
-| Bases de datos | MongoDB, modelado NoSQL, operaciones CRUD |
-| Automatización | n8n, flujos CRM, integraciones para ventas y atención por WhatsApp |
-| Herramientas | Git, GitHub, npm, ESLint, consumo de APIs externas |
-| Fundamentos | Python, Java, lógica de programación, estructuras y buenas prácticas |
+| Backend | Node.js, Express, REST APIs, environment configuration |
+| Databases | MongoDB, NoSQL modeling, CRUD operations |
+| Automation | n8n, CRM workflows, sales and WhatsApp automation |
+| Tools | Git, GitHub, npm, ESLint, external API integration |
+| Foundations | Python, Java, programming logic, data structures and best practices |
 
-## Proyectos destacados
+## Featured Projects
 
-| Proyecto | Descripción | Stack |
+| Project | Description | Stack |
 | --- | --- | --- |
-| [ScaleUp CRM y Automatización](https://github.com/JuanDavidBermeoCastro1234/New-Project-Crm-and-Automatizaci-n) | Proyecto orientado a landing, CRM y automatizaciones para procesos comerciales. Incluye trabajo con enfoque de negocio, captación de leads y flujos de atención. | HTML, CSS, JavaScript, n8n |
-| [Portafolio](https://github.com/JuanDavidBermeoCastro1234/Portafolio) | Portafolio personal moderno, elegante y profesional, con estructura de experiencia, proyectos, sobre mí y contacto. | React, TypeScript, Vite, CSS |
-| [GIFs App](https://github.com/JuanDavidBermeoCastro1234/gifs-app) | Aplicación para buscar y consumir contenido desde API externa, trabajando componentes, estados y peticiones HTTP. | React, TypeScript, Axios, Vite |
-| [Juego Preguntas React](https://github.com/JuanDavidBermeoCastro1234/JuegoPreguntasReact) | Aplicación interactiva tipo quiz, enfocada en interfaz, lógica de juego y estructura moderna. | Next.js, React, TypeScript, Tailwind CSS |
-| [Express CRUD Buggy](https://github.com/JuanDavidBermeoCastro1234/express-crud-buggy) | API CRUD con Express y MongoDB, orientada a practicar backend, rutas y persistencia. | Node.js, Express, MongoDB |
-| [Plataforma Recetas](https://github.com/JuanDavidBermeoCastro1234/PlataformaRecetas) | Backend para una plataforma de recetas con estructura de servidor y base de datos. | Node.js, Express, MongoDB |
+| [ScaleUp CRM and Automation](https://github.com/JuanDavidBermeoCastro1234/New-Project-Crm-and-Automatizaci-n) | Business-oriented landing, CRM and automation project focused on lead capture, commercial workflows and customer attention. | HTML, CSS, JavaScript, n8n |
+| [Portfolio](https://github.com/JuanDavidBermeoCastro1234/Portafolio) | Personal portfolio with a clean, modern and professional design, including experience, projects, about me and contact sections. | React, TypeScript, Vite, CSS |
+| [GIFs App](https://github.com/JuanDavidBermeoCastro1234/gifs-app) | App for searching and consuming external API content, working with components, state and HTTP requests. | React, TypeScript, Axios, Vite |
+| [React Questions Game](https://github.com/JuanDavidBermeoCastro1234/JuegoPreguntasReact) | Interactive quiz-style application focused on UI, game logic and modern project structure. | Next.js, React, TypeScript, Tailwind CSS |
+| [Express CRUD Buggy](https://github.com/JuanDavidBermeoCastro1234/express-crud-buggy) | CRUD API with Express and MongoDB, focused on backend routes and persistence. | Node.js, Express, MongoDB |
+| [Recipes Platform](https://github.com/JuanDavidBermeoCastro1234/PlataformaRecetas) | Backend project for a recipes platform with server structure and database integration. | Node.js, Express, MongoDB |
 
-## En qué puedo aportar
+## What I Bring
 
-- Desarrollo de interfaces web responsivas, limpias y profesionales.
-- Construcción de aplicaciones con React, Next.js y TypeScript.
-- Creación de APIs con Node.js, Express y MongoDB.
-- Integración de servicios externos y consumo de APIs.
-- Automatización de procesos comerciales con enfoque CRM.
-- Mejora continua de proyectos existentes: estructura, UI, contenido y presentación profesional.
+- Responsive, clean and professional web interfaces.
+- React, Next.js and TypeScript application development.
+- APIs with Node.js, Express and MongoDB.
+- External service integration and API consumption.
+- CRM automation with a business-oriented mindset.
+- Continuous improvement of existing projects: structure, UI, content and professional presentation.
 
-## Estadísticas
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanDavidBermeoCastro1234&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavidBermeoCastro1234&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanDavidBermeoCastro1234&theme=tokyonight" alt="GitHub stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDavidBermeoCastro1234&theme=tokyonight" alt="Repositories by language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanDavidBermeoCastro1234&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDavidBermeoCastro1234&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
-## Contacto
+<p align="center">
+  <img src="https://img.shields.io/badge/Longest%20streak-104%20days-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Longest streak: 104 days" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-06b6d4?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full stack development focus" />
+</p>
 
-- Email: [bermeocastrojuandavid@gmail.com](mailto:bermeocastrojuandavid@gmail.com)
-- LinkedIn: [Juan David Bermeo Castro](https://www.linkedin.com/in/juan-david-bermeo-castro-63a7b4326/?skipRedirect=true)
-- GitHub: [JuanDavidBermeoCastro1234](https://github.com/JuanDavidBermeoCastro1234)
-- Teléfono profesional: +57 302 292 6563
+## Contact
 
+<p align="center">
+  <a href="https://wa.me/573022926563" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:bermeocastrojuandavid@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-david-bermeo-castro-63a7b4326/?skipRedirect=true" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <strong>Abierto a oportunidades</strong><br />
-  Desarrollo software con enfoque práctico, visual profesional y soluciones que conectan tecnología con necesidades reales.
+  <strong>Open to opportunities</strong><br />
+  Software development with practical execution, professional visual quality and solutions that connect technology with real needs.
 </p>
